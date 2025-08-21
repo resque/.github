@@ -1,0 +1,2 @@
+# .github
+Resque Org README
